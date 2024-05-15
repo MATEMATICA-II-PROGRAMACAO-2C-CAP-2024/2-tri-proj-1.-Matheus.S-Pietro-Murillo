@@ -1,9 +1,26 @@
+<<<<<<< HEAD
+:root{
+    --branco-principal:#FFFFFF;
+    --cinza-secundario:#C0C0C0;
+    --botao-azul:#167BF7;
+    --cor-de-fundo:#00030C;
+}
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
+}
+*{
+    margin: 0;
+    padding:0;
+}
+=======
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
 }
+>>>>>>> 1c04d9c09d9c595656d20215d3502c34e1e27609
 
 body {
     background-color: var(--cor-de-fundo);

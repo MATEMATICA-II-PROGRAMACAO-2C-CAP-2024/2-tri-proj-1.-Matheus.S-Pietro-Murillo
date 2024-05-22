@@ -14,3 +14,7 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.conteudo-principal {
+background-image:url(./imgaens/fundo.webp);
+}

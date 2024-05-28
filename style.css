@@ -21,6 +21,10 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 
+.imagem-principal {
+    width: 120px;
+}
+
 .container {
     height: 100vh;
 }

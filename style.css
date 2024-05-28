@@ -18,6 +18,7 @@ body {
 .conteudo-principal {
 background-image:url(./imgaens/fundo.webp);
 background-repeat: no-repeat;
+background-size: cover;
 }
 
 .container {

@@ -27,4 +27,5 @@ background-size: cover;
 
 .container {
     height: 100vh;
+    display: grid;
 }

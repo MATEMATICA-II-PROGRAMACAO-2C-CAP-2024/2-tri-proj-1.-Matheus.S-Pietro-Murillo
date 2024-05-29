@@ -30,3 +30,7 @@ background-size: cover;
     display: grid;
     grid-template-columns: 50% 50%;
 }
+
+.botao__secundario{
+ background-color: transparent;
+}

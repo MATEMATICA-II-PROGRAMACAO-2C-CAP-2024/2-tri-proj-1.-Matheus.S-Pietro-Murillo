@@ -25,11 +25,12 @@ background-size: cover;
     width: 120px;
 }
 
-.container {
+.container{
     height: 100vh;
     display: grid;
     grid-template-columns: 50% 50%;
 }
+
 .container__botao{
     background-color: var(--botao-azul);
     border-radius: 5px;
@@ -37,7 +38,8 @@ background-size: cover;
     color: var(--branco-principal);
     display: block;
 }
+
 .botao__secundario{
- background-color: transparent;
- border: 2 solid var(--branco-principal);
+    background-color: transparent;
+    border: 2 solid var(--branco-principal);
 }

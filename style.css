@@ -25,10 +25,6 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 
-.imagem-principal {
-    width: 120px;
-}
-
 .container{
     height: 100vh;
     display: grid;
@@ -61,4 +57,5 @@ background-size: cover;
 
 .container__imagem {
     margin:1em 0 2em 0;
+    width: 120px;
 }

@@ -24,6 +24,7 @@ background-image:url(./imgaens/fundo.webp);
 background-repeat: no-repeat;
 background-size: cover;
 align-items: center;
+text-align: center;
 }
 
 .container{

@@ -69,3 +69,7 @@ background-size: contain;
 .secundaria-imagem {
     width: 80%;
 }
+
+.secao-secundaria {
+    align-items: center;
+}

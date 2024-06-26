@@ -75,5 +75,6 @@ background-size: contain;
     margin: 0 10em;
 }
 .container__titulo_2{
-
+font-size: 48px;
+color: var(--branco-principal);
 }

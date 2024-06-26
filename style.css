@@ -77,4 +77,5 @@ background-size: contain;
 .container__titulo_2{
 font-size: 48px;
 color: var(--branco-principal);
+margin-bottom: 0.1em;
 }

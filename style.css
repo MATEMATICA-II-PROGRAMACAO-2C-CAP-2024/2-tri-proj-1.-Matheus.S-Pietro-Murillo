@@ -105,5 +105,6 @@ justify-content: center;
     .lista__item {
         font-size: 32px;
         color:var(--branco-principal);
+        list-style-type:none;
+margin: 5em 0;
         }
-        

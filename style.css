@@ -82,3 +82,6 @@ margin-bottom: 0.1em;
 .container__texto {
     color: var(--cinza-secundario);
 }
+.secundario__botao {
+    display: inline-block;
+}

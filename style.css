@@ -80,7 +80,7 @@ font-size: 48px;
 color: var(--branco-principal);
 margin-bottom: 0.1em;
 }
-.container__texto {
+.container__texto{
     color: var(--cinza-secundario);
 }
 .secundario__botao {

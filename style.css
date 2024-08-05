@@ -70,10 +70,17 @@ background-size: contain;
 .secao-secundaria {
     align-items: center;
     margin: 0 10em;
+    text-align: center;
+}
+
+.container__secundario {
+    align-items: center;
+    margin: 0 10em;
 }
 
 .secundaria-imagem {
     width: 80%;
+    align-content: center;
 }
 
 .container__titulo_2{
@@ -94,6 +101,7 @@ margin-bottom: 0.1em;
     .dispositivos__lista {
         display: flex;
 justify-content: center;
+list-style-type: none;
         }
 .dispositivos {
 text-align: center;
@@ -141,4 +149,11 @@ font-size: 12px;
             .container__botao:hover{
                 background-color: var(--botao-azul-efeito);
                 color: var(--cor-de-fundo);}
-                
+              .rodape__logo{
+                width: 10%;
+            }
+            .iconedispo{
+                width: 45%;
+            }
+            
+           
